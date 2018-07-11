@@ -2,4 +2,4 @@
 
 const currentUser = "lizzie high"
 
-const welcomeMessage = 'Welcome to Klossybook, ' + typeof currentUser + '!';
+const welcomeMessage = 'Welcome to Klossybook, ' + currentUser + '!';
