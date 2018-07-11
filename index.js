@@ -4,4 +4,5 @@ const currentUser = "lizzie high"
 
 const welcomeMessage = `Welcome to Klossybook, ' + ${currentUser} + !`;
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
+const shortGreeting = 'Welcome, ';
 
